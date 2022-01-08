@@ -6,7 +6,6 @@ import {
   UserGroupIcon,
   HeartIcon,
   PaperAirplaneIcon,
-  MenuAlt1Icon,
   MenuIcon,
 } from "@heroicons/react/outline";
 
